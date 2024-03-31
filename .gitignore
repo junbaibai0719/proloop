@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 write*.txt
-
+proloop/*.html
+proloop/*.cpp
 # C extensions
 *.so
 
